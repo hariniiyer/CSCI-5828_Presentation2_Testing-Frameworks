@@ -19,8 +19,15 @@ The ones I am covering :
 
 
 REF : https://wiki.python.org/moin/PythonTestingToolsTaxonomy
+
 http://pythontesting.net/framework/pytest/pytest-fixtures/
+
 https://docs.python.org/2/library/unittest.html
+
 Think Python - How to Think Like a Computer Scientist, Allen Downey, Green Tea Press
+
 http://pyunit.sourceforge.net/pyunit.html
+
 http://ivory.idyll.org/articles/nose-intro.html (Awesome Link)
+
+https://en.wikipedia.org/wiki/Software_framework
