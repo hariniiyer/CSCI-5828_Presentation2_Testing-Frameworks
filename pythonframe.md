@@ -33,3 +33,5 @@ http://pyunit.sourceforge.net/pyunit.html
 http://ivory.idyll.org/articles/nose-intro.html (Awesome Link)
 
 https://en.wikipedia.org/wiki/Software_framework
+
+http://www.elegantcoding.com/2011/07/software-frameworks-resistance-isnt.html
