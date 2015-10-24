@@ -26,6 +26,8 @@ https://docs.python.org/2/library/unittest.html
 
 Think Python - How to Think Like a Computer Scientist, Allen Downey, Green Tea Press
 
+http://www.elegantcoding.com/2011/07/software-frameworks-resistance-isnt.html
+
 http://pyunit.sourceforge.net/pyunit.html
 
 http://ivory.idyll.org/articles/nose-intro.html (Awesome Link)
