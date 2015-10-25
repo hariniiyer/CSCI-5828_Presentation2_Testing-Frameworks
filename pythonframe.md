@@ -1,37 +1,16 @@
-Python Testing Frameworks(Heading):
+#####Python Testing Frameworks:
 
-Intro to Python as a language :
+<p><b>Python :</b></p>
+<p>Python is a succesor of the ABC language. It was developed by Guido van Rossum. </p>
+<p>It is a very powerful high-level language. It is interpreted language and, is easy and free to use. </p>
 
-
-Some common python frameworks :
+<p>Some common python frameworks are :</p>
 unittest, pytest, nose, pry, dutest, doctest, trial
 
-
-
-
-The ones I am covering :
+In this presentation, we cover the working of 3 main unit test frameworks  :
 + unittest
 + nose 
-+ trial or
 + pytest
 
 
-
-
-REF : https://wiki.python.org/moin/PythonTestingToolsTaxonomy
-
-http://pythontesting.net/framework/pytest/pytest-fixtures/
-
-https://docs.python.org/2/library/unittest.html
-
-Think Python - How to Think Like a Computer Scientist, Allen Downey, Green Tea Press
-
-http://www.elegantcoding.com/2011/07/software-frameworks-resistance-isnt.html
-
-http://pyunit.sourceforge.net/pyunit.html
-
-http://ivory.idyll.org/articles/nose-intro.html (Awesome Link)
-
-https://en.wikipedia.org/wiki/Software_framework
-
-http://www.elegantcoding.com/2011/07/software-frameworks-resistance-isnt.html
+[NEXT](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/pytest.md)
