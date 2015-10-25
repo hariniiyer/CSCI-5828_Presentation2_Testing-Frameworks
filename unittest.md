@@ -9,10 +9,16 @@ PyUnit is the Python equivalent of JUnit is Java which was written by Kent Beck 
 
 In the figure above, we see the unittest module. There are five key classes in unittest :
 
-+ TestCase : This class is used to create new test cases
-+ TestSuite : This class allows individual tests and test suites to be aggregrated
-+ TestLoader : This class is used to automate the process of creating a testsuite and populating it with individual tests.
-+ TextTestRunner
+<p><b>TestCase :</b></p>
+This class is used to create new test cases
+
+<p><b>TestSuite :</b></p>
+This class allows individual tests and test suites to be aggregrated
+
+<p><b>TestLoader :</b></p>
+This class is used to automate the process of creating a testsuite and populating it with individual tests.
+
+<p><b>TextTestRunner:</b></p>
 + TestResults
 
 
