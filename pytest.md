@@ -27,9 +27,9 @@ One very convienient feature about pytest is that it can easily integrate techni
 It has many third party plugins and it also easy to write our own plugin. It can be customized on basis of a released plugin. COmmand line options are also easy nosecode.
 
 
-[NEXT](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/nosecode.md)
+[NEXT](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/pytestcode.md)
 
-[BACK](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/pytestcode.md)
+[BACK](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/nosecode.md)
 
 https://en.wikipedia.org/wiki/Boilerplate_code
 http://whatis.techtarget.com/definition/boilerplate
