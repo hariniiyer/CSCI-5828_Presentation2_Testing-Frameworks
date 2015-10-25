@@ -23,5 +23,11 @@ http://whatis.techtarget.com/definition/boilerplate
 
 https://github.com/junit-team/junit/wiki/Test-fixtures
 
+https://github.com/nose-devs/nose
 
+http://zonca.github.io/2014-12-16-lbl/lecture_notes/testing/nose.html
+
+http://pythontesting.net/framework/nose/nose-introduction/
+
+https://nose.readthedocs.org/en/latest/
 
