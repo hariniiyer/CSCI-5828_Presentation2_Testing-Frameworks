@@ -11,12 +11,12 @@ pyunit
 
 pyunitcode
 
-nose
-
-nosecode
-
 pytest
 
 pytestcode
+
+nose
+
+nosecode
 
 references
