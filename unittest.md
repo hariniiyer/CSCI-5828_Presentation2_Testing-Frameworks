@@ -1,7 +1,7 @@
 
 ####PyUnit
 
-PyUnit is the Python equivalent of JUnit is Java which was written by Kent Beck and Eric Gamma. It is also called as unnittest. It is widely used for testing. The design on PyUnit is based on xUnit framework. Hence, we also find frameworks similar to it in C, Perl, Smalltalk, etc. 
+PyUnit is the Python equivalent of JUnit is Java which was written by Kent Beck and Eric Gamma. It is also called as unnittest. It is widely used for testing. The design on PyUnit is based on xUnit framework. Hence, we also find frameworks similar to it in C, Perl, Smalltalk, etc. It supports test fixtures.
 
 
 
