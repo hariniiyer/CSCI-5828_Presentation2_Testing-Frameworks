@@ -14,7 +14,7 @@ This class is used to create new test cases. Its instances are single test cases
 
 
 <p><b>TestSuite :</b></p>
-This class allows individual tests and test suites to be aggregrated
+This class allows individual tests and test suites to be aggregrated. It acts like a collection container.
 
 
 <p><b>TestLoader :</b></p>
