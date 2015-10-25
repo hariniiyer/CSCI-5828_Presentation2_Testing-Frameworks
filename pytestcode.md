@@ -9,5 +9,8 @@ def test_answer(cmdopt):
     elif cmdopt == "type2":
         print ("second")
     assert 0 # to see what was printed
-    
 </pre></code>
+
+[NEXT](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/nose.md)
+
+[BACK](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/pytest.md)
