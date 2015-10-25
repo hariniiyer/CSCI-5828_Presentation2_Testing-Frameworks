@@ -1,1 +1,1 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](http://www.stylusinc.com/BI/wp-content/uploads/2007/12/SDLC.jpg "Logo Title Text 1")
