@@ -1,6 +1,8 @@
 
 
+VEry very very import : cpuy
 
+http://www.drdobbs.com/testing/unit-testing-with-python/240165163
 
 
 
