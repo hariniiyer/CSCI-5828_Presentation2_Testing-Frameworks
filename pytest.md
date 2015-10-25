@@ -16,8 +16,11 @@ The key features of pytest are :
 In testing, there is a concept known as Boilerplate. It is nothing but a repetitive block of code which is reused. We can consider it to be a 'fill-in-the-blanks template'. Such type of code is not to be found is pytest. Hence, it is called as a no boilerplate framework. 
 
 <p><b>Higly scalable from unit tests to complex functional tests:</b></p>
-We have test fixtures in pytest which are nothing but a set of objects with a fixed state. There are used as a standard while running tests. These fixtures are used for complex programs. But pytest also supports a unittest type of test on the code. It simple but scalable to multiple instances. It also has strong backward compatibility which makes it very efficient. 
+We have test fixtures in pytest which are nothing but a set of objects with a fixed state. There are used as a standard while running tests. These fixtures are used for complex programs. But pytest also supports a unittest type of test on the code. It simple but scalable to multiple instances. It also has strong backward compatibility which makes it very efficient. It is very flexible.
 
+
+<p><b>Integration with other tools and methods:</b></p>
+One very convienient feature about pytest is that it can easily integrate techniques such as node, unnittest and docstyle within itself. It can also work with. Dependencies can be installed using pip. It can also run non-python test cases made for Django and trial. 
 
 
 
