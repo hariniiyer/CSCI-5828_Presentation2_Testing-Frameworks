@@ -12,8 +12,11 @@ The key features of pytest are :
 + It can be customized to work on difference systems
 + It has extensive plugin
 
-No-Boiler plate testing :
+<p><b>No-Boiler plate testing :</b><p>
 In testing, there is a concept known as Boilerplate. It is nothing but a repetitive block of code which is reused. We can consider it to be a 'fill-in-the-blanks template'. Such type of code is not to be found is pytest. Hence, it is called as a no boilerplate framework. 
+
+Higly scalable from unit tests to complex functional tests:
+We have test fixtures
 
 
 simple but scalable to multiple instances
@@ -26,3 +29,4 @@ simple but scalable to multiple instances
 
 https://en.wikipedia.org/wiki/Boilerplate_code
 http://whatis.techtarget.com/definition/boilerplate
+https://github.com/junit-team/junit/wiki/Test-fixtures
