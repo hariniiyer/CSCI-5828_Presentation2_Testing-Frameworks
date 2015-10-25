@@ -16,3 +16,12 @@ http://pyunit.sourceforge.net/unittest.html
 https://pymotw.com/2/unittest/
 
 https://en.wikipedia.org/wiki/Software_framework
+
+https://en.wikipedia.org/wiki/Boilerplate_code
+
+http://whatis.techtarget.com/definition/boilerplate
+
+https://github.com/junit-team/junit/wiki/Test-fixtures
+
+
+
