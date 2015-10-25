@@ -24,7 +24,7 @@ One very convienient feature about pytest is that it can easily integrate techni
 
 
 <p><b>Large plugin collection and customizable to work on different systems</b></p>
-It has many third party plugins and it also easy to write our own plugin. It can be customized on basis of a released plugin. COmmand line options are also easy nosecode.
+It has many third party plugins and it also easy to write our own plugin. It can be customized on basis of a released plugin. Command line options are also easy nosecode.
 
 
 [NEXT](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/pytestcode.md)
