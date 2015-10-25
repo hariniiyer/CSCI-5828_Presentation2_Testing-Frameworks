@@ -1,6 +1,5 @@
 <p style="text-align:center"><b>TESTING FRAMEWORKS</b></p><br>
 <p style="text-align:center"><b>OVERVIEW</b></p><br>
-
 <ol type="">
 <li><b>What is software testing</b></li>
 
