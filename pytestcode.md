@@ -1,6 +1,8 @@
 
 
+Following is a basic example of unnittest. 
 
+The test method is class SimplisticTest would fail if the passes parameter becomes false. 
 
 
 <pre><code>
