@@ -4,7 +4,7 @@
 <ol type="">
 <li><b>What is software testing</b></li>
 
--	Nee for software testing in SDLC
+-	Need for software testing in SDLC
 -	Software testing types
 -   black box testing, white box testing and others
 -	How do we test the software
