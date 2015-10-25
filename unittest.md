@@ -25,29 +25,7 @@ This class is used to automate the process of creating a testsuite and populatin
 This reports the test results on the standard error streams. It provides a standard platform for tests to run.
 
 <p><b>TestResults:</b></p>
-This calss is used as a result object.
-
-
-
-
- 
-As Figure 1 shows, there are five key classes in the unittest module. The TestCase class holds the test routines and provides hooks for preparing each routine and for cleaning up after. The TestSuite class serves as a collection container. It can hold multiple TestCase objects and multiple TestSuite objects.
-
-The TestLoader class loads test cases and suites defined locally or from an external file. It emits a TestSuite object that holds those cases and suites. The TextTestRunner class provides a standard platform to run the tests. The TestResults class provides a standard container for the test results.
-
-Out of these five classes, only TestCase must be subclassed. The other four classes can also be subclassed, but they are generally used as is.
-
-
-
-Reference :
-
-http://www.drdobbs.com/testing/unit-testing-with-python/240165163
-https://docs.python.org/2/library/unittest.html#module-unittest
-https://daringfireball.net/projects/markdown/syntax#precode
-http://pythontesting.net/framework/pytest/pytest-introduction/
-http://pyunit.sourceforge.net/
-http://pyunit.sourceforge.net/unittest.html
-https://pymotw.com/2/unittest/
+This class is used as a result object. All results could be accessed here.
 
 
 [NEXT](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/unittestcode.md)
