@@ -3,7 +3,7 @@
 
 <b>What is it? Why do we have to do it?</b>
 
-![Why test](http://i.stack.imgur.com/tmikt.png)
+![Why test](http://blog.caplin.com/wp-content/uploads/068_-_Unit-testing1.png)
 
 <p>A software when being developed, goes through different phases namely,</p>
 <ul>
