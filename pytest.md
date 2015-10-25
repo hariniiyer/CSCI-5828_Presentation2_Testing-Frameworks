@@ -30,7 +30,3 @@ It has many third party plugins and it also easy to write our own plugin. It can
 [NEXT](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/pytestcode.md)
 
 [BACK](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/nosecode.md)
-
-https://en.wikipedia.org/wiki/Boilerplate_code
-http://whatis.techtarget.com/definition/boilerplate
-https://github.com/junit-team/junit/wiki/Test-fixtures
