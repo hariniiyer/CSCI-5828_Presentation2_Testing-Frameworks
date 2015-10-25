@@ -14,3 +14,5 @@ http://pyunit.sourceforge.net/
 http://pyunit.sourceforge.net/unittest.html
 
 https://pymotw.com/2/unittest/
+
+https://en.wikipedia.org/wiki/Software_framework
