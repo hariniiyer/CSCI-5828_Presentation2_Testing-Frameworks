@@ -3,6 +3,8 @@
 
 <b>What is it? Why do we have to do it?</b>
 
+![Why test](http://i.stack.imgur.com/tmikt.png)
+
 <p>A software when being developed, goes through different phases namely,</p>
 <ul>
 <li>Requirements gathering,</li>
