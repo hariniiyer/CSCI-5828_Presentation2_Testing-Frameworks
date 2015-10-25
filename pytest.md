@@ -23,10 +23,8 @@ We have test fixtures in pytest which are nothing but a set of objects with a fi
 One very convienient feature about pytest is that it can easily integrate techniques such as node, unnittest and docstyle within itself. It can also work with. Dependencies can be installed using pip. It can also run non-python test cases made for Django and trial. 
 
 
-
-
-
-
+<p><b>Large plugin collection and customizable to work on different systems</b></p>
+It has many third party plugins and it also easy to write our own plugin. It can be customized on basis of a released plugin. COmmand line options are also easy to add.
 
 
 
