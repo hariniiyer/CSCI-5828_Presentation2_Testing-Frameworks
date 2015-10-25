@@ -11,7 +11,7 @@ The best features of nose are :
 
 It is called a discovery based test because nose tests start with <b> test_ </b>. 
 
-With the help of test_, the test is identified as a nose test. The API used in nose is minimal. It is compatible with doctest and unittest.
+With the help of test_, the test is identified as a nose test. The API used in nose is minimal. The extra API can be safely avoided without any harm to the functionality. It is compatible with doctest and unittest.
 
 
 [NEXT](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/nosecode.md)
