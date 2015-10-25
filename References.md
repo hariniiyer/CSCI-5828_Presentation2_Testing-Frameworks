@@ -33,3 +33,4 @@ https://nose.readthedocs.org/en/latest/
 
 http://ivory.idyll.org/articles/nose-intro.html#why-use-a-framework-and-why-nose
 
+http://pytest.org/latest/example/simple.html#pass-different-values-to-a-test-function-depending-on-command-line-options
