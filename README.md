@@ -4,5 +4,5 @@
 
 ### Topic : Testing Frameworks
 
-#### Team : Ashik Imram Akbar Basha, Harini Iyer, Vaishavi Vishwanathan
+### Team : Ashik Imram Akbar Basha, Harini Iyer, Vaishavi Vishwanathan
 
