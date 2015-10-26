@@ -15,16 +15,16 @@ int myatoi(const char *s)
 }
 </pre></code>
 
-The test is as follows:
+The test to validate if <I>myatoi</I> works as follows:
 <pre><code>
-/* mytest.c */
-\#include "np.h"         /* NovaProva library */
-\#include "mycode.h"     /* declares the Code Under Test */
+/\* mytest.c \*/
+\#include "np.h"         // NovaProva library 
+\#include "mycode.h"     // declares the Code Under Test 
 static void test_simple(void)
 {
     int r;
     r = myatoi("42");
-    NP_ASSERT_EQUAL(r, 42);
+    NP_ASSERT_EQUAL(r, 42); // NovaProva assertion check 
 }
 </pre></code>
 
