@@ -1,6 +1,6 @@
 <b>What is a framework? </b>
 
-<p>To understand the concept of framework better, let us take an example of making a clay doll. If a person wants to make a single clay doll, he will design it and carve out the features. But what if he wants to make 1000 dolls ? It is impossible to follow the same procedure for 1000 dolls. Hence, he will make a single mould pass the clay through it to make 1000 dolls. What is does here is nothing but make a framework. </p>
+<p>To understand the concept of framework better, let us take an example of making a clay doll. If a person wants to make a single clay doll, he will design it and carve out the features. But what if he wants to make 1000 dolls ? It is impossible to follow the same procedure for 1000 dolls. Hence, he will make a single mould pass the clay through it to make 1000 dolls. What he does here is nothing but make a framework. </p>
 
 <b>What is a testing framework?</b>
 
