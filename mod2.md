@@ -19,11 +19,11 @@
 - If there is a problem encountered by an authenticated admin in logging into the system, then the testers will send the application to the developer team to fix it. 
 
 - After the development team fixes the bug, the testing team will again test the application to check if the functionalities of the other modules (user’s domain) and also the admin domain itself are affected.
+
+- This method is so called the regression testing.
+
 - <br>
 
 [<img src="https://cloud.githubusercontent.com/assets/14101008/10718970/e8253ecc-7b43-11e5-8fcb-af3acab64686.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/modularcon1.md)
 [<img src="https://cloud.githubusercontent.com/assets/14101008/10718969/e5b6db32-7b43-11e5-886a-b848ca79f105.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/mod3.md)
-
-
-- This method is so called the regression testing.
 
