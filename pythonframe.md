@@ -2,7 +2,7 @@
 
 <p><b>Python :</b></p>
 <p>Python is a succesor of the ABC language. It was developed by Guido van Rossum. </p>
-<p>It is a very powerful high-level language. It is interpreted language and, is easy and free to use. </p>
+<p>It is a very powerful high-level language. It is an interpreted language and, is easy and free to use. </p>
 
 
 <p>Some common python frameworks are :</p>
