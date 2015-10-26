@@ -27,7 +27,7 @@ private static int score(int score) <br>
 return score;<br>
 }<br>
 }<br>
-
+</pre></code>
 
 Thus we are able to add different test data sets and run them with ease without having the need to modify the given test data set each and every time.
 
