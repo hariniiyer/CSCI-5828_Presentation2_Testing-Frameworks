@@ -1,8 +1,7 @@
 
 <b>TESTING:</b>
 
-<code><pre>
-@RunWith(JUnitParamsRunner.class)<br>
+<code><pre>@RunWith(JUnitParamsRunner.class)<br>
 public class FullHouseTest <br>
 {<br>
 
@@ -29,7 +28,7 @@ return score;<br>
 }<br>
 </pre></code>
 
-Thus we are able to add different test data sets and run them with ease without having the need to modify the given test data set each and every time.
+ We are able to add different test data sets and run them with ease, without having the need to modify the given test data set each and every time.
 
 <br>
 
