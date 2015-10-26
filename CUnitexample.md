@@ -11,7 +11,7 @@
     
  The test function to assert the validation will be as follows:
     
-    <pre><code>  void test_maxi(void)
+  <pre><code> void test_maxi(void)
     {
       CU_ASSERT(maxi(0,2) == 2);
       CU_ASSERT(maxi(0,-2) == 0);
