@@ -2,7 +2,7 @@
 
 <p>In this example,we calculate the score of the fullhouse(fullhouse will have 3 numbers of one kind and 2 numbers of another kind) and we assume the score to be the sum of all numbers in a roll.
 </p>
-
+<code><pre>
 >class FullHouse implements Scoreable<br> 
 >{<br>
 >public Score getScore(Collection dice) <br>
@@ -22,6 +22,7 @@
 >return value1 > 0 && value2 > 0;<br>
 >}<br>
 >}<br>
+</pre></code>
 <br>
 
 Some of the unit tests if we wish to do are:
