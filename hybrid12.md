@@ -8,11 +8,11 @@
 
 <b>FEATURES:</b>
 
-<b>Generic Approach:</b>
+- <b>Generic Approach:</b>
 
-- Load test systems that have a Java API. 
+  -  Load test systems that have a Java API. 
 
-- Eg. HTTP web servers, SOAP and REST web services, and application servers, custom protocols
+  -  Eg. HTTP web servers, SOAP and REST web services, and application servers, custom protocols
 
 
 <br>
