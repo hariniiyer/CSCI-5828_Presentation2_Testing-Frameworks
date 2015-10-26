@@ -3,4 +3,5 @@
    called mocking. Mocking is a technique by which modules that don't needed to be tested are replaced with <I>mock</I> versions
    that have simpler and more controllable behavior. When NovaProva finds a function whose name starts with the letters <I>mock_</I>, 
    it automatically adds that function as a mock to all the tests defined in the same source file. Mocks are automatically installed 
-   and uninstalled when the tests start and end respectively.
+   and uninstalled when the tests start and end respectively. Additionally, NovaProva allows dynamic mocks that allow mocks
+   to ba added and removed partway through a test.
