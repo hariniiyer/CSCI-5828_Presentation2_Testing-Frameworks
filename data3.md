@@ -9,7 +9,7 @@
 
 -	The test data sets are hard-coded in the test script and the test cases are similar. In order to test a different type of test case, we will have to create new driver scripts which makes the testing more complex and hard.
 
-Some of the sources to store the data (input and output) for this framework are
+Some of the sources to store the data (input and output) for this framework are :
 
 -	Excel files  
 
