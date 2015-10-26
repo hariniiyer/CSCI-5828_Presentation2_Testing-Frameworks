@@ -1,4 +1,4 @@
-### Design Method:
+### Features:
 - Fully supports C and C++ 
 - Test code buildable with only a C complier without need for C++ compile features
 - Emphasizes power over portability
