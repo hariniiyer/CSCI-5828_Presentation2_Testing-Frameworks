@@ -1,5 +1,5 @@
 ### Unit Testing in C:
-   Unit testing in C is similar in several aspects to unit testing in Python, Java etc. However, there are
+   C is an imperative languages designed to be compiled using a relatively straightforward compiler. It provides low-level access to memory and language constructs that map efficiently to machine instructions. It requires minimal run-time support. Unit testing in C is similar in several aspects to unit testing in Python, Java etc. However, there are
    certain addtional issues.  In other languages, the worst scenario is that the unit test fails and throws an exception.
    However, in C, there is an additional problem of the address space being trashed. If important information resides 
    in these locations, then the complications are amplified. Hence, additional care should be taken in modelling testing
