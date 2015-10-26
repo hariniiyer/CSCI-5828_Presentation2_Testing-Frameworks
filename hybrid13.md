@@ -2,17 +2,17 @@
 
 - <b>DISTRIBUTED FRAMEWORK</b>
 
-It has a graphical console that allows multiple load injectors to be monitored and controlled.
+  - It has a graphical console that allows multiple load injectors to be monitored and controlled.
 
 - <b>MATURE HTTP SUPPORT</b>
 
-- Automatic management of client connections and cookies. 
+  - Automatic management of client connections and cookies. 
 
-- Proxy aware. 
+  - Proxy aware. 
 
-- Connection throttling. 
+  - Connection throttling. 
 
-- Sophisticated record and replay of the interaction between a browser and a web site.
+  - Sophisticated record and replay of the interaction between a browser and a web site.
 
 <br>
 
