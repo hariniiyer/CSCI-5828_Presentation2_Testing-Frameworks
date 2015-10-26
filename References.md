@@ -83,6 +83,12 @@ http://vijayachavvakula.blogspot.com/2011/02/hybrid-test-automation.html
 
 https://www.cs.colorado.edu/~kena/classes/5828/s12/presentation-materials/ghanakotagayatri.pdf
 
+http://novaprova.readthedocs.org/en/latest
+
+http://cunit.sourceforge.net/
+
+http://check.sourceforge.net/
+
 images:
 http://www.a1qa.com/blog/keyword-driven-testing-methodology-part-2/
 
