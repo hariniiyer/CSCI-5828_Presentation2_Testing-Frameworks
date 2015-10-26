@@ -3,25 +3,25 @@
 <p>In this example,we calculate the score of the fullhouse(fullhouse will have 3 numbers of one kind and 2 numbers of another kind) and we assume the score to be the sum of all numbers in a roll.
 </p>
 <code><pre>
->class FullHouse implements Scoreable<br> 
->{<br>
->public Score getScore(Collection dice) <br>
->{<br>
->Score pairScore = Scorables.pair().getScore(dice);<br>
->Score threeOfAKindScore = Scorables.threeOfAKind().getScore.(pairScore.getReminder());<br>
->        
->if (bothAreGreaterThanZero(pairScore.getValue(), threeOfAKindScore.getValue()))<br> 
->{<br>
->            return new Score(pairScore.getValue() + threeOfAKindScore.getValue()); // no reminder<br>
->}<br>
->return new Score(0, dice);<br>
->}<br>
-><br>
->private boolean bothAreGreaterThanZero(int value1, int value2)<br> 
->{<br>
->return value1 > 0 && value2 > 0;<br>
->}<br>
->}<br>
+class FullHouse implements Scoreable<br> 
+{<br>
+public Score getScore(Collection dice) <br>
+{<br>
+Score pairScore = Scorables.pair().getScore(dice);<br>
+Score threeOfAKindScore = Scorables.threeOfAKind().getScore.(pairScore.getReminder());<br>
+        
+if (bothAreGreaterThanZero(pairScore.getValue(), threeOfAKindScore.getValue()))<br> 
+{<br>
+            return new Score(pairScore.getValue() + threeOfAKindScore.getValue()); // no reminder<br>
+}<br>
+return new Score(0, dice);<br>
+}<br>
+<br>
+private boolean bothAreGreaterThanZero(int value1, int value2)<br> 
+{<br>
+return value1 > 0 && value2 > 0;<br>
+}<br>
+}<br>
 </pre></code>
 
 
