@@ -27,6 +27,7 @@ One very convienient feature about pytest is that it can easily integrate techni
 It has many third party plugins and it also easy to write our own plugin. It can be customized on basis of a released plugin. Command line options are also easy nosecode.
 
 
-[NEXT](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/pytestcode.md)
 
-[BACK](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/nosecode.md)
+
+[<img src="https://cloud.githubusercontent.com/assets/14101008/10718970/e8253ecc-7b43-11e5-8fcb-af3acab64686.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/nosecode.md)
+[<img src="https://cloud.githubusercontent.com/assets/14101008/10718969/e5b6db32-7b43-11e5-886a-b848ca79f105.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/pytestcode.md)
