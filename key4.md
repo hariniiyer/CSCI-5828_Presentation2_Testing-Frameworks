@@ -6,7 +6,7 @@
 - 	It is flexible – it is easy to add delete and edit the existing test cases.
 - 	The execution of these tests can be performed by anyone because of the detailed description of the way of executing the keyword i.e its simple.
 
-<b>DIADVANTAGES:</b>
+<b>DISADVANTAGES:</b>
 
 - It has a moderately high learning curve.
 - Since it is flexible, there are many test cases which get generated.
