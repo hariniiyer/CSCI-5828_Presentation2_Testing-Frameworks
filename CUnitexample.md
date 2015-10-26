@@ -9,7 +9,7 @@
     }
  </code></pre>
     
- The test function will be as follows:
+ The test function to assert the validation will be as follows:
     
     <pre><code>  void test_maxi(void)
     {
