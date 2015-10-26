@@ -16,7 +16,7 @@ A software when being developed, goes through different phases namely,
 - Deployment and Maintenance 
 
 <p>
-Which are together called as the (SDLC) Software Development Life cycle.
+These together is known as Software Development Life cycle (SDLC).
 </p>
 
 <br>
