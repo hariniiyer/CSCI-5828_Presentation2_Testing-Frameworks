@@ -1,23 +1,7 @@
 
-<b>What is a testing framework?</b>
+Java Testing Frameworks
 
-<p>A testing framework is a set of assumptions, concepts and practices that provide support for automated software testing. Simply put, it is an execution environment for automated tests.</p>
-
-<p>There are four popular types of framework methodologies which is being used by organizations today.</p>
-Framework methodologies:
-
-- Modular
-- Data-driven
-- Keyword driven
-- Hybrid
-
-
-
-It is the up to the organization to take decisions on the type of testing framework they want to adopt for different projects. 
-
-Each of these frameworks has their own advantages and drawbacks.  
-
-There are many java testing tools and frameworks which can be used for testing the application. Some of them are as follows
+There are many java testing tools and frameworks which can be used for testing the application. Some of them are as follows :
 
 - JUnit
 - JTest
@@ -28,5 +12,5 @@ There are many java testing tools and frameworks which can be used for testing t
 We will see in detail about the four testing framework methodologies in this presentation. 
 <br>
 
-[<img src="https://cloud.githubusercontent.com/assets/14101008/10718970/e8253ecc-7b43-11e5-8fcb-af3acab64686.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/typescon.md)
+[<img src="https://cloud.githubusercontent.com/assets/14101008/10718970/e8253ecc-7b43-11e5-8fcb-af3acab64686.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/Framework.md)
 [<img src="https://cloud.githubusercontent.com/assets/14101008/10718969/e5b6db32-7b43-11e5-886a-b848ca79f105.png" width="50" height="50"></img>](https://github.com/hariniiyer/CSCI-5828_Presentation2_Testing-Frameworks/blob/master/modularcon.md)
