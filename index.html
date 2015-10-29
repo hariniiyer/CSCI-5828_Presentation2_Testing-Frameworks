@@ -1,139 +1,30 @@
-<!doctype html>
-<html lang="en">
+<html>
+	<tiltle>hello! testing the website</tiltle>
+	<p>
+		
+OVERVIEW
+1)	What is software testing
+-	Nee for software testing in SDLC
+-	Software testing types
+-black box testing, white box testing and others
+-	How do we test the software
+2)	Manual and Automated testing
+3)	Automated testing framework methodologies, its types, advantages and disadvantages with examples.
+-Modular testing framework 
+-Data-driven testing framework 
+-Keyword driven testing framework 
+-Hybrid driven testing frameworks
 
-	<head>
-		<meta charset="utf-8">
+SOFTWARE TESTING 
+What is it? Why do we have to do it?
+A software when being developed, goes through different phases namely,
+Requirements gathering,
+Analysis,
+Design,
+Implementation and integration,
+Testing
+Deployment and Maintenance 
+Which are together called as the (SDLC) Software Development Life cycle.
 
-		<title>Pair Programming</title>
-
-		<meta name="description" content="Presentation #2 for CSCI 5828, Fall 2015">
-		<meta name="author" content="Diana Southard">
-
-		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/sky.css" id="theme">
-
-		<!-- Code syntax highlighting -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
-
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-
-		<!--[if lt IE 9]>
-		<script src="lib/js/html5shiv.js"></script>
-		<![endif]-->
-
-		<style>
-		table {
-		    border-collapse: collapse;
-		}
-
-		table, td, th {
-		    border: 1px solid black;
-		}
-		</style>
-
-	</head>
-
-	<body>
-
-		<div class="reveal">
-
-			<!-- Any section element inside of this container is displayed as a slide -->
-			<div class="slides">
-			
-				<section>
-					<h2>Introduction</h2>
-					<p> Pair programming is where two programmers develop software side by side at one computer. While they are sitting together, they are continuously collaborating on the same design, problem, line of code, or test. This practice gained popularity due to its result in increased correctness in code among other benefits.</p>
-					<img src="images/wordcloud.jpg">
-					</section>
-					
-					<section>
-					<h2>Origins</h2>
-					<p> Pair programming has been around since before Agile was developed. The following is a timeline of its development.</p>
-					<ul>
-						<li><i>1953: </i> Fred Brooks: “Fellow graduate student Bill Wright and I first tried pair programming when I was a grad student. We produced 1500 lines of defect-free code; it ran correctly first try.” </li>
-						<li><i>1992: </i>"Dynamic Duo" coined by Larry Constantine: "At each terminal were two programmers! Of course, only one programmer was actually cutting code at each keyboard, but the others were peering over their shoulders."
-</li>
-</ul>
-</section>
-<section>
-<ul>
-						<li><i>1993: </i> "The benefits of collaboration for student programmers" by Wilson et al. is one early empirical study indicating benefits of pairing for programming tasks specifically. Posterior studies are more abundant and driven by the desire to "validate" pair programming after it had already gained popularity through Extreme Programming.</li>
-						<li><i>1995: </i>The pattern "Developing in Pairs" is given a brief description, in Alexandrian pattern form, in Jim Coplien's chapter "A Generative Development-Process Pattern Language" from the first patterns book, "Pattern Languages of Program Design".</li>
-						</ul>
-					</section>
-					
-					<section>
-						<ul>
-						<li><i>1996: </i>Nissim Hadar was leading a team of programmers working on flight simulators who wanted to work in pairs. While it seemed inefficient at the beginning, big improvements came when the weaker programmers improved within a short time and there were fewer bugs in the fixed time scheduled for the project.
-</li>
-<li><i>1998: </i>In "Chrysler goes to Extremes", the earliest article about Extreme Programming, pair programming is presented as one of the core practices of the C3 team; it is later described formally as one of XP's original "twelve practices."</li>
-					</ul>
-				</section>
-				
-				<section>
-<ul>
-						
-						<li><i>2000: </i>The roles of Driver and Navigator are introduced to help explain pair programming.</li>
-						<li><i>2002: </i>"Pair Programming Illuminated", by Laurie Williams and Robert Kessler, is the first book devoted exclusively to the practice and discusses its theory, practice and the various studies up to that date.</li>
-						<li><i>2003: </i>An anonymous article on the C2 Wiki describes Ping-Pong Programming, a moderately popular variant which marries pairing with test-driven development.</li>
-					</ul>
-					<img height = 200 src="images/guys.jpg">
-				</section>
-      
-      	<section>
-					<h3>Illustration of Driver and Navigator</h3>
-					<img src="images/pairing-vocab.jpg">
-				</section>
-				
-				<section>
-				<h3>Share Everything </h3>
-				<p>While you are practicing pair programming, everything you are responsible for is shared jointly between you and your partner. You both equally share ownership for correctly fulfilling your task, regardless of who is actually typing at the computer.</p>
-				</section>
-				
-				
-			</div>
-
-		</div>
-
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
-
-		<script>
-
-			// Full list of configuration options available at:
-			// https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls: true,
-				progress: true,
-				history: true,
-				center: true,
-
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
-
-				// Optional reveal.js plugins
-				dependencies: [
-					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: 'plugin/zoom-js/zoom.js', async: true },
-					{ src: 'plugin/notes/notes.js', async: true }
-				]
-			});
-
-		</script>
-
-	</body>
-</html>
+	</p>
+	</html>
